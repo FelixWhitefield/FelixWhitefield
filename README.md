@@ -4,8 +4,8 @@
 
 ##### BIO
 
-- ⚙️ I have used: `.java`, `.css`, `.php`, `.hs`, `.py`, `.js`, `.cs`
-- 🌱 I am learning about `.go`, `VueJS`, `Azure`, `GAE`
+- ⚙️ I have used: `.java`, `.css`, `.php`, `.hs`, `.py`, `.js`, `.ts`, `.cs`
+- 🌱 I am learning about `.go`, `VueJS`, `Svelte(Kit)`, `Azure`, `GAE`
 
 
 
