@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a student studying Computer Science at the University of Southampon
+#### I was a student studying Computer Science at the University of Southampon
 
 ##### BIO
 
